@@ -4,3 +4,7 @@ D:\GitHub\C-_1_base\C_1_base\C_2_base\obj\Debug\C_2_base.csprojAssemblyReference
 D:\GitHub\C-_1_base\C_1_base\C_2_base\obj\Debug\C_2_base.csproj.CoreCompileInputs.cache
 D:\GitHub\C-_1_base\C_1_base\C_2_base\obj\Debug\C_2_base.dll
 D:\GitHub\C-_1_base\C_1_base\C_2_base\obj\Debug\C_2_base.pdb
+D:\C#\C-_1_base\C_1_base\C_2_base\obj\Debug\C_2_base.csprojAssemblyReference.cache
+D:\C#\C-_1_base\C_1_base\C_2_base\obj\Debug\C_2_base.csproj.CoreCompileInputs.cache
+D:\C#\C-_1_base\C_1_base\C_2_base\obj\Debug\C_2_base.dll
+D:\C#\C-_1_base\C_1_base\C_2_base\obj\Debug\C_2_base.pdb

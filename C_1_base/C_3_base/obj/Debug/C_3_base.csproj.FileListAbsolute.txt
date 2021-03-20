@@ -1,0 +1,2 @@
+D:\C#\C-_1_base\C_1_base\C_3_base\obj\Debug\C_3_base.csprojAssemblyReference.cache
+D:\C#\C-_1_base\C_1_base\C_3_base\obj\Debug\C_3_base.csproj.CoreCompileInputs.cache
