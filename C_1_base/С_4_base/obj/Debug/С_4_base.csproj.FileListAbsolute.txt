@@ -1,0 +1,7 @@
+D:\C#\C-_1_base\C_1_base\С_4_base\bin\Debug\С_4_base.exe.config
+D:\C#\C-_1_base\C_1_base\С_4_base\bin\Debug\С_4_base.exe
+D:\C#\C-_1_base\C_1_base\С_4_base\bin\Debug\С_4_base.pdb
+D:\C#\C-_1_base\C_1_base\С_4_base\obj\Debug\С_4_base.csprojAssemblyReference.cache
+D:\C#\C-_1_base\C_1_base\С_4_base\obj\Debug\С_4_base.csproj.CoreCompileInputs.cache
+D:\C#\C-_1_base\C_1_base\С_4_base\obj\Debug\С_4_base.exe
+D:\C#\C-_1_base\C_1_base\С_4_base\obj\Debug\С_4_base.pdb
