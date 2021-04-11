@@ -1,0 +1,10 @@
+D:\C#\C-_1_base\C_1_base\C_5_base\bin\Debug\C_5_base.exe.config
+D:\C#\C-_1_base\C_1_base\C_5_base\bin\Debug\C_5_base.exe
+D:\C#\C-_1_base\C_1_base\C_5_base\bin\Debug\C_5_base.pdb
+D:\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.csprojAssemblyReference.cache
+D:\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.Form1.resources
+D:\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.Properties.Resources.resources
+D:\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.csproj.GenerateResource.cache
+D:\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.csproj.CoreCompileInputs.cache
+D:\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.exe
+D:\C#\C-_1_base\C_1_base\C_5_base\obj\Debug\C_5_base.pdb
